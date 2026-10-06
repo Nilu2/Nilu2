@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=1" width="100%" alt="Nilesh Mahajan profile hero" />
+  <img src="./assets/hero.svg?v=2" width="100%" alt="Nilesh Mahajan profile hero" />
 </p>
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=1" width="100%" alt="About Nilesh Mahajan" />
+  <img src="./assets/about-life.svg?v=2" width="100%" alt="About Nilesh Mahajan" />
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=1" width="100%" alt="Web design and software development stack" />
+  <img src="./assets/stack.svg?v=2" width="100%" alt="Web design and software development stack" />
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Nilesh Mahajan ID and verified GitHub dashboard" />
+  <img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Nilesh Mahajan ID and verified GitHub dashboard" />
 </p>
 
 ## Projects
@@ -21,7 +21,7 @@
 | **RND Automation Inventory Software** | Inventory automation software | Public repository URL not supplied |
 
 <p align="center">
-  <img src="./assets/connect.svg?v=1" width="100%" alt="Connect with Nilesh Mahajan" />
+  <img src="./assets/connect.svg?v=2" width="100%" alt="Connect with Nilesh Mahajan" />
 </p>
 
 <p align="center">
