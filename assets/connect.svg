@@ -28,7 +28,7 @@
 @media (prefers-reduced-motion: reduce){
   .motion{display:none!important}
   .reduced-only{display:inline!important}
-  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important;transform:none!important}
+  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important}
 }
 
 .c-title{font-size:58px;fill:#f7f8fb}.c-kicker{font-size:15px;letter-spacing:3px;fill:#7da7ff}.c-big{font-size:34px;fill:#f7f8fb}.c-body{font-size:17px;fill:#9fb0cf}

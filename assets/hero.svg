@@ -31,7 +31,7 @@
 @media (prefers-reduced-motion: reduce){
   .motion{display:none!important}
   .reduced-only{display:inline!important}
-  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important;transform:none!important}
+  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important}
 }
 
 .hero-eyebrow{font-size:18px;letter-spacing:4px;fill:#a9b8d6}

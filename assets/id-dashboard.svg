@@ -28,7 +28,7 @@
 @media (prefers-reduced-motion: reduce){
   .motion{display:none!important}
   .reduced-only{display:inline!important}
-  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important;transform:none!important}
+  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important}
 }
 
 .i-title{font-size:52px;fill:#f7f8fb}.i-kicker{font-size:15px;letter-spacing:3px;fill:#7da7ff}.i-cardname{font-size:31px;fill:#f8f9fc}.i-role{font-size:14px;letter-spacing:2px;fill:#93a9cd}.i-metric{font-size:38px;fill:#f7f8fb}.i-label{font-size:13px;fill:#8fa2c2}.i-repo{font-size:17px;fill:#dfe7f8}.i-lang{font-size:13px;fill:#8498ba}

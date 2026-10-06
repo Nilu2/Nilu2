@@ -28,7 +28,7 @@
 @media (prefers-reduced-motion: reduce){
   .motion{display:none!important}
   .reduced-only{display:inline!important}
-  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important;transform:none!important}
+  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important}
 }
 
 .s-title{font-size:57px;fill:#f7f8fb}.s-kicker{font-size:15px;letter-spacing:3px;fill:#7da7ff}.s-label{font-size:16px;fill:#e9effc}.s-chip{font-size:16px;fill:#dbe6fa}.s-core{font-size:44px;fill:#f7f8fb}.s-sub{font-size:14px;fill:#8da1c2}.s-orbit{fill:none;stroke:#2b3b5c;stroke-width:1.4;stroke-dasharray:7 10}

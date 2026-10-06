@@ -28,7 +28,7 @@
 @media (prefers-reduced-motion: reduce){
   .motion{display:none!important}
   .reduced-only{display:inline!important}
-  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important;transform:none!important}
+  .enter,.float,.pulse,.dash,.nudge,.swing,.blink{animation:none!important}
 }
 
 .a-title{font-size:56px;fill:#f7f8fb}.a-kicker{font-size:15px;letter-spacing:3px;fill:#7da7ff}.a-body{font-size:19px;fill:#c3cee3}.a-cap{font-size:23px;fill:#edf3ff}.a-small{font-size:15px;fill:#9aabc7}.a-slide{font-size:48px;fill:#f7f8fb}.a-num{font-size:14px;fill:#91a6c8}
