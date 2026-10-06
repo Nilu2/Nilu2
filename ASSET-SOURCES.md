@@ -1,19 +1,27 @@
 # Asset and data sources
 
 ## Portraits
-- `assets/id.png` is an exact byte-for-byte copy of the stylized portrait provided/generated in this conversation and is embedded without redrawing in every SVG portrait placement.
-- `assets/right_pointing.png` is an exact byte-for-byte copy of the pointing portrait provided/generated in this conversation and is embedded without redrawing in `assets/connect.svg`.
-- Both source PNGs contain real alpha transparency.
+- `assets/id.png` and `assets/right_pointing.png` are retained byte-for-byte from the supplied/generated transparent PNG assets.
+- Their exact PNG bytes are inlined in the SVGs; no portrait is redrawn or masked.
 
 ## Fonts
-- Lato Heavy — SIL Open Font License 1.1. Embedded as base64 WOFF2 in every SVG. License: `licenses/Lato-OFL-1.1.txt`.
-- Noto Sans Mono Regular — SIL Open Font License 1.1. Embedded as base64 WOFF2 in every SVG. License: `licenses/NotoSansMono-OFL-1.1.txt`.
+- Lato Heavy — SIL Open Font License 1.1. Embedded as base64 WOFF2.
+- Noto Sans Mono Regular — SIL Open Font License 1.1. Embedded as base64 WOFF2.
 
-## Brand marks
-- GitHub mark from the Simple Icons project; see `licenses/Simple-Icons-NOTE.md`.
+## Icon marks
+- GitHub, Instagram, Facebook, Threads, Python, JavaScript, HTML5, CSS3, Android and Git vector marks are inlined from the locally installed Font Awesome Free 6.7.2 brand SVG set.
+- Font Awesome Free license is included as `licenses/Font-Awesome-Free-LICENSE.txt`.
+- Supabase and SQLite use labelled monogram chips rather than an externally fetched mark, keeping rendering self-contained and avoiding network requests.
+
+## Supplied profile facts and URLs
+- GitHub: https://github.com/Nilu2
+- Instagram: https://www.instagram.com/nilu_mahajan_official
+- Facebook: https://www.facebook.com/nilu.mahajan.official
+- Threads: https://www.threads.com/@nilu_mahajan_official
+- Company: https://niluitsolutions.netlify.app/
+- Roles: CEO, Software Developer, Software Testing.
+- Stack: Python, JavaScript, HTML, CSS, Supabase, SQLite, Android, Git.
+- Interests: Programming, Web Design, Software Creation.
 
 ## GitHub data snapshot
-Public profile data used in `assets/id-dashboard.svg` was checked on 06 Oct 2026 at https://github.com/Nilu2. Included only values visible on the public profile: 16 repositories, 15 starred repositories, 0 followers, 2 following, plus profile-listed popular repository names/languages.
-
-## No guessed links
-No company URL, RND project repository URL, email, LinkedIn, Instagram, X/Twitter, YouTube or other social URL was supplied, so none was invented.
+The ID dashboard retains the dated public GitHub snapshot checked on 06 Oct 2026. Unknown project repository URLs remain omitted rather than guessed.
