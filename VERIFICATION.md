@@ -38,3 +38,10 @@ Verified on **06 Oct 2026** after the role, stack, interests, company and social
 
 ## QA artifacts
 The internal `_verification/` folder contains the timed, animation-removed and mobile-width captures used for checking. It is not required for GitHub upload.
+
+
+## V4 connect update
+- Connect panel now visibly contains GitHub, Instagram, Facebook, Threads and NILU IT SOLUTIONS cards.
+- Every platform mark is placed inside a circular icon holder.
+- README connect image cache key updated to `?v=4`.
+- Clickable URLs remain in README below the SVG because links inside an SVG rendered via `<img>` are not clickable on GitHub.

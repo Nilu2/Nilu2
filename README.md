@@ -21,7 +21,7 @@
 | **RND Automation Inventory Software** | Inventory automation software | Public repository URL not supplied |
 
 <p align="center">
-  <img src="./assets/connect.svg?v=3" width="100%" alt="Connect with Nilesh Mahajan" />
+  <img src="./assets/connect.svg?v=4" width="100%" alt="Connect with Nilesh Mahajan" />
 </p>
 
 <p align="center">
