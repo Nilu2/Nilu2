@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/hero.svg?v=1" width="100%" alt="Nilesh Mahajan profile hero" />
+</p>
 
-<!--
-**Nilu2/Nilu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/about-life.svg?v=1" width="100%" alt="About Nilesh Mahajan" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="./assets/stack.svg?v=1" width="100%" alt="Web design and software development stack" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Nilesh Mahajan ID and verified GitHub dashboard" />
+</p>
+
+## Projects
+
+| Project | Focus | Repository |
+| --- | --- | --- |
+| **RND Automation Inventory Software** | Inventory automation software | Public repository URL not supplied |
+
+<p align="center">
+  <img src="./assets/connect.svg?v=1" width="100%" alt="Connect with Nilesh Mahajan" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nilu2"><strong>GitHub · Nilu2</strong></a>
+</p>
+
+<sub>GitHub metrics in the ID dashboard are a dated public-profile snapshot checked on 06 Oct 2026. Other social links are intentionally omitted because none were supplied.</sub>
